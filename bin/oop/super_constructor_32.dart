@@ -1,5 +1,3 @@
-import 'inheritance_30.dart';
-
 class A {
   void info() {
     print('hello');
